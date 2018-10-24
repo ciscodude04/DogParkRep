@@ -12,11 +12,4 @@
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="3.3.0.912540" />
   </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="DataLayer\" />
-    <Folder Include="DataAccessLayer\" />
-    <Folder Include="BusinessLayer\" />
-    <Folder Include="ServiceAccessLayer\" />
-  </ItemGroup>
 </Project>

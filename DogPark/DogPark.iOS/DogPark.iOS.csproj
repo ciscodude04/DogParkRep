@@ -90,8 +90,10 @@
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="ApplicationLayer\IOSAppLayer.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
+    <Compile Include="UILayer\IOSUILayer.cs" />
     <None Include="Entitlements.plist" />
     <None Include="Info.plist" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -157,8 +159,5 @@
       <Name>DogPark</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="ApplicationLayer\" />
-    <Folder Include="UILayer\" />
-  </ItemGroup>
+  <ItemGroup />
 </Project>

@@ -1,0 +1,12 @@
+C:\Users\Cisco\source\repos\DogPark\DogPark\DogPark\bin\Debug\netstandard2.0\DogPark.deps.json
+C:\Users\Cisco\source\repos\DogPark\DogPark\DogPark\bin\Debug\netstandard2.0\DogPark.dll
+C:\Users\Cisco\source\repos\DogPark\DogPark\DogPark\bin\Debug\netstandard2.0\DogPark.pdb
+C:\Users\Cisco\source\repos\DogPark\DogPark\DogPark\obj\Debug\netstandard2.0\DogPark.csprojAssemblyReference.cache
+C:\Users\Cisco\source\repos\DogPark\DogPark\DogPark\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Cisco\source\repos\DogPark\DogPark\DogPark\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Cisco\source\repos\DogPark\DogPark\DogPark\obj\Debug\netstandard2.0\DogPark.csproj.CoreCompileInputs.cache
+C:\Users\Cisco\source\repos\DogPark\DogPark\DogPark\obj\Debug\netstandard2.0\DogPark.AssemblyInfoInputs.cache
+C:\Users\Cisco\source\repos\DogPark\DogPark\DogPark\obj\Debug\netstandard2.0\DogPark.AssemblyInfo.cs
+C:\Users\Cisco\source\repos\DogPark\DogPark\DogPark\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Cisco\source\repos\DogPark\DogPark\DogPark\obj\Debug\netstandard2.0\DogPark.dll
+C:\Users\Cisco\source\repos\DogPark\DogPark\DogPark\obj\Debug\netstandard2.0\DogPark.pdb
